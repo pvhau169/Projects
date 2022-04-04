@@ -23,6 +23,6 @@ In this episode simulation, based on the strong water flow is from top right to 
 
 
 ## Image Caption Generating
-<img src="./images/dimage_caption_generating.png" width=400 align="middle">  
+<img src="./images/image_caption_generating.png" width=400 align="middle">  
 
 
