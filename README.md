@@ -21,6 +21,13 @@ In this episode simulation, based on the strong water flow is from top right to 
 </p>
 In this episode simulation, based on the strong water flow is from top right to bottom left. The agent is trained to track the chemical plume to seek the chemical source.
 
+## Multi-Agent Object Localization and Classifcation via Reinforcement Learning
+<p float="left">
+<img src="./images/Multi_Agent_MNIST_Localization.gif" width=300 ">  
+</p>
+Multiple MNIST digits are replaced at random position in the environment. Traning a multi-agent reinforcement learning policy to localize and classify all the MNIST digits during exploration.
+The first img is the environment example. The middle image is the observations of multi-agents system. The third image is the system's predictions of where and what digits are.
+
 
 ## Image Caption Generating
 <img src="./images/image_caption_generating.png" width=600 align="middle">  
