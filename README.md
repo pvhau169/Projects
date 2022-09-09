@@ -4,7 +4,7 @@
 <img src="./images/simulation.gif" width=300 align="middle">  
 An example of chemical source underwater environment. In which, the water flows from left to right. The initial concentration of the source is 0.8 out of 1.0. The odor packets are spawned at every time step and traveling under effect of the mean water flow and a sinuous fluctuation. In general, the odor plume has a cone shape.
 
-## Remotely chemical source localizing via timeseries classification
+## Chemical Source Localizing via Remote Sensing
 <p float="left">
 <img src="./images/sensing_simulation.gif" width=300 ">  
 <img src="./images/sensing_predict.gif" width=100 ">  
@@ -14,7 +14,7 @@ The autonomous agent has predefined trajectory which repeats going straight to l
 In this episode simulation, based on the strong water flow is from top right to bottom left, the agent can infer the source location is at top of predicting the image. When agents receive some chemical concentration, it can tell the source is at the top right.
 
 
-## Chemical plume tracking using deep reinforcement learning
+## Chemical Plume Tracking using Deep Reinforcement Learning
 <p float="left">
 <img src="./images/seeking_simulation.gif" width=500 ">  
 <img src="./images/seeking_trajectory.gif" width=200 ">  
@@ -29,7 +29,7 @@ Multiple MNIST digits are replaced at random position in the environment. Traini
 The first img is the environment example. The middle image is the observations of multi-agents system. The third image is the system's predictions of where and what digits are.
 
 
-## Image Caption Generating
+## Auto Image Caption
 <img src="./images/image_caption_generating.png" width=600 align="middle">  
 
 
