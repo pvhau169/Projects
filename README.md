@@ -16,8 +16,8 @@ In this episode simulation, based on the strong water flow is from top right to 
 
 ## Chemical plume tracking using deep reinforcement learning
 <p float="left">
-<img src="./images/seeking_simulation.gif" width=300 ">  
-<img src="./images/seeking_trajectory.gif" width=100 ">  
+<img src="./images/seeking_simulation.gif" width=600 ">  
+<img src="./images/seeking_trajectory.gif" width=300 ">  
 </p>
 In this episode simulation, based on the strong water flow is from top right to bottom left. The agent is trained to track the chemical plume to seek the chemical source.
 
